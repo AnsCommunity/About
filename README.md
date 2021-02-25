@@ -13,3 +13,5 @@
 ## 版权和其他说明
 
 本文档内容（作者安伞共同体）采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
+
+<img src="/Img/Logo/AC-Logo.png" height="100" width="100" />
