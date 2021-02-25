@@ -6,6 +6,10 @@
 
 > 你所看到的关于安伞共同体的一切，Logo、文案、代码、平面广告、视频等等，均出自我们的社区成员之手。
 
+## 我们的 5 年目标
+
+> 在虚拟世界（互联网上），建立一家在现实世界里上市的公司（如纳斯达克）。
+
 ## 已发布的产品
 
 - [AnyList](https://github.com/AnsCommunity/About/blob/main/About/AnyList.md)
